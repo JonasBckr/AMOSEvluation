@@ -1,0 +1,26 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": "0",
+        "spleen": "1",
+        "right kidney": "2",
+        "left kidney": "3",
+        "gall bladder": "4",
+        "esophagus": "5",
+        "liver": "6",
+        "stomach": "7",
+        "arota": "8",
+        "postcava": "9",
+        "pancreas": "10",
+        "right adrenal gland": "11",
+        "left adrenal gland": "12",
+        "duodenum": "13",
+        "bladder": "14",
+        "prostate/uterus": "15"
+    },
+    "numTraining": 240,
+    "numValidation": 120,
+    "file_ending": ".nii.gz"
+}
